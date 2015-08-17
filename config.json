@@ -1,0 +1,7 @@
+{
+    "name": "CGDB中文手册",
+    "introduction": "CGDB是一款非常优秀的gdb调试器的前端，本手册是中文版使用说明。",
+    "path" : {
+          "toc" : "SUMMARY.md"
+    }
+}
